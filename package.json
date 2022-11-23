@@ -43,6 +43,6 @@
     "path": "^0.12.7",
     "public-ip": "^4.0.0",
     "shortid": "^2.2.8",
-    "socket.io": "^2.0.1"
+    "socket.io": "^2.5.0"
   }
 }
